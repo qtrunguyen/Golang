@@ -4,7 +4,7 @@
 
 ### Pros
 - Simple, easy learning curve
-- Fast compilation time
+- Faster compilation time (compared to other backend languages Javascript, PHP, ..)
 - Concurrency
 
 ### Cons
